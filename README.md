@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gprasantkumarvarma/gprasantkumarvarma/main/assets/coding-banner.png" alt="Coding Lover" width="900"/>
+  <img src="https://raw.githubusercontent.com/gprasantkumarvarma/gprasantkumarvarma/main/assets/coding-banner.png" alt="Coding Lover" width="100%"/>
 </p>
 
 # 👋 Hello! I'm G. Prasant Kumar Varma
