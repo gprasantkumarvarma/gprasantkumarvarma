@@ -96,8 +96,8 @@ Welcome to my GitHub profile! I'm a passionate and experienced **Full Stack Java
 ## 📫 Let's Connect
 
 - 📍 Location: India  
-- 💼 LinkedIn: [linkedin.com/in/prasantkumarvarma](https://www.linkedin.com/in/prasantkumarvarma)  
-- ✉️ Email: [your-email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/prasantkumarvarma](https://www.linkedin.com/in/g-prasant-kumar-varma-70338a87/)  
+- ✉️ Email: [g.prashantverma@gmail.com]
 
 ---
 
