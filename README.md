@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gprasantkumarvarma/gprasantkumarvarma/main/assets/coding-banner.png" alt="Coding Lover" width="900"/>
+</p>
+
 # 👋 Hello! I'm G. Prasant Kumar Varma
 
 Welcome to my GitHub profile! I'm a passionate and experienced **Full Stack Java Developer** with 9+ years in the **BFSI domain**, building scalable enterprise applications using modern technologies.
