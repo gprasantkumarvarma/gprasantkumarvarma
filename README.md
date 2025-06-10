@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/Jk8jPYO.gif" alt="Coding Lover - I love coding" />
-</p>
 # 👋 Hello! I'm G. Prasant Kumar Varma
 
 Welcome to my GitHub profile! I'm a passionate and experienced **Full Stack Java Developer** with 9+ years in the **BFSI domain**, building scalable enterprise applications using modern technologies.
